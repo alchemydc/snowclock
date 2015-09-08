@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C7FF9517-7DFB-4B1B-8B4A-B9BF084A5C59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>localnotificationtest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>19DA1459-F207-4D14-AC5E-DA088EE10132</key>
+		<string>ssh://github.com/ea-coders/snowclock.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>localnotificationtest/localnotificationtest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>19DA1459-F207-4D14-AC5E-DA088EE10132</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ea-coders/snowclock.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>19DA1459-F207-4D14-AC5E-DA088EE10132</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>19DA1459-F207-4D14-AC5E-DA088EE10132</string>
+			<key>IDESourceControlWCCName</key>
+			<string>snowclock</string>
+		</dict>
+	</array>
+</dict>
+</plist>

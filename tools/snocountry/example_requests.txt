@@ -1,0 +1,2 @@
+curl -v -d apiKey=SnoCountry.example -d states=co http://feeds.snocountry.com/conditions.php
+
